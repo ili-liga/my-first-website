@@ -3,7 +3,7 @@
 Welcome!!!
 
 This is my ***very FISRT*** web page since I have started to study in Code Institute.
-And I am about to do a breakdown of how I made it. 
+each of the website pages show the platforms I will be using for each of my projects. 
 
 As you can see the name of it is "*Hello world!*" and it consists of three sheets
 and each of the sheets have __text__ and **image** links to other website.
