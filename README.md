@@ -41,7 +41,7 @@ Each of the website pages show the platforms I will be using for each of my proj
 ![alt text](https://www.dev-metal.com/wp-content/uploads/2014/04/html5-1-100x100.jpg "HTML5")
 ![alt text](https://s3-us-west-2.amazonaws.com/hacksource/hacksource-web/assets/images/subjects/css-9aea0df532d32045351af8f893954751.jpg "CSS")
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNXzsV_JzebCqC4fNBa54YyCsFZqDMaUF_lZo5-QeY1bVP1XFYA "Git")
-![alt text](https://cdn.inquisitr.com/wp-content/uploads/2015/05/Github-100x100.jpg "GitHub")
+![alt text](https://www.w3.org/community/auto-wcag/files/2016/03/github-300x300.jpg "GitHub")
 
 
 ### Website Created by
