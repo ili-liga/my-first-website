@@ -2,7 +2,9 @@
 
 ## Welcome!!!
 
-This is my ***very FISRT*** website since I have started to study in Code Institute. This website was made in order for me to learn:
+This is my ***very FISRT*** website since I have started to study in Code Institute https://ili-liga.github.io/my-first-website/
+
+This website was made in order for me to learn:
    * how to create a webpage with *HyperText Mmarkup Language* - **HTML**
    * how to put a style to it with *Cascadian Style Sheet* - **CSS**
    * how to create a local **Git** repository to track the changes in my files using a *Code-Line Interface* - **CLI**
@@ -23,13 +25,15 @@ Each of the website pages show the platforms I will be using for each of my proj
 
 3. Next step was to style my website using [_CSS_](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) language - I created folder and file for slyling and wrote the code.
    * CSS is a style sheet language used for describing the presentation of a document written in a markup language.
-   * ***
+***
+
 4. After that I linked the [_HTML5_](https://en.wikipedia.org/wiki/HTML) and [_CSS_](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) files together in order to apply the styles to the pages.
+***
 
 5. Next step was to make a [_Git_](https://en.wikipedia.org/wiki/Git) repositary using [_CLI_](https://en.wikipedia.org/wiki/Command-line_interface) to store my code files localy. This will allow me to compare and control different version of my code when I make changes to it.
    * CLI is the means of communication with a computer program by issuing commands using text lines (command lines)
    * Git  is a system used to track changes in computer files - version control
-   * ***
+***
 
 6. Then I made an account in [_GitHub_](https://en.wikipedia.org/wiki/GitHub) so I can make a remote repository - this makes my project and code visible to public.
    * Git Hub is a web based service for version control using _Git_ which hosts open-source software projects. 
